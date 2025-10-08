@@ -50,7 +50,7 @@ I’m passionate about technology, robotics, and creating solutions that combine
 
 <b>My GitHub Stats</b>
 
-<a align="center" href="http://www.github.com/AendeGitHub"><img src="https://github-readme-stats.vercel.app/api?username=AendeGitHub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AendeGitHub's GitHub stats" /></a>
-<a align="center" href="https://github.com/AendeGitHub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AendeGitHub&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a align="center" href="http://www.github.com/AendeGitHub"><img src="https://github-readme-stats.vercel.app/api?username=AendeGitHub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AendeGitHub's GitHub stats" /></a> 
+<br><br>- <a align="center" href="https://github.com/AendeGitHub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AendeGitHub&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ###

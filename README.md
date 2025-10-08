@@ -55,4 +55,4 @@ I’m passionate about technology, robotics, and creating solutions that combine
 
 ###
 
-<a align="center" href="a align="center" href="https://www.figma.com/design/HKUgUa5GQIOoL63fuJsLVb/-1?node-id=0-1&t=7YO2dmywi7aSEERl-1">🔗 My figma page link</a>
+<a align="center" href="https://www.figma.com/design/HKUgUa5GQIOoL63fuJsLVb/-1?node-id=0-1&t=7YO2dmywi7aSEERl-1">🔗 My figma page link</a> 

@@ -16,11 +16,11 @@
 
 <p align="left">I am a former member of several FIRST Tech Challenge teams, including URAN 92, Zertte, Thunderbolts, and Nerv. I am currently focused on pursuing a career in AI/ML and Computer Science.
 
-<br><br>-I have experience in Python and Java, and I have worked on programming and configuring FTC robots for both autonomous and tele-operated modes. Through robotics, I developed strong problem-solving skills and an interest in intelligent systems.
+<br>I have experience in Python and Java, and I have worked on programming and configuring FTC robots for both autonomous and tele-operated modes. Through robotics, I developed strong problem-solving skills and an interest in intelligent systems.
 
-<br><br>-In addition, I have a background in UI/UX design and experience with Fusion 360, where I model robot components and engineering systems.
+<br>In addition, I have a background in UI/UX design and experience with Fusion 360, where I model robot components and engineering systems.
 
-<br><br>-I am passionate about artificial intelligence, robotics, and building smart systems that combine software, data, and engineering.
+I am passionate about artificial intelligence, robotics, and building smart systems that combine software, data, and engineering.
 <br><br>- 🔭 Former member of FTC teams: URAN 92 / Zertte / Thunderbolts / Nerv.
 <br>- 🤖 Aspiring AI/ML & Computer Science student
 <br>- 📚 Completed the NUUA rocket engineering course

@@ -14,14 +14,17 @@
 
 ###
 
-<p align="left">I’m a member of the FTC team URAN 92.
-I specialize in web development and UI/UX design, creating modern and functional interfaces for our team’s projects.
-I have experience in Python and Java, and I know how to program and configure FTC robots for autonomous and tele-op modes.
-I’m also a designer and skilled in Fusion 360, where I model robot parts and other engineering components.
-I’m passionate about technology, robotics, and creating solutions that combine software and design.
-<br><br>- 🔭 I am member FTC team "URAN 92".
-<br>- 📚 Completed the NUUA course in rocket engineering at a Chinese university.!
-<br>- ⚡ Completed the Harvard Model Congress (HMC) course in Astana.</p>
+<p align="left">I am a former member of several FIRST Tech Challenge teams, including URAN 92, Zertte, Thunderbolts, and Nerv. I am currently focused on pursuing a career in AI/ML and Computer Science.
+
+<br><br>-I have experience in Python and Java, and I have worked on programming and configuring FTC robots for both autonomous and tele-operated modes. Through robotics, I developed strong problem-solving skills and an interest in intelligent systems.
+
+<br><br>-In addition, I have a background in UI/UX design and experience with Fusion 360, where I model robot components and engineering systems.
+
+<br><br>-I am passionate about artificial intelligence, robotics, and building smart systems that combine software, data, and engineering.
+<br><br>- 🔭 Former member of FTC teams: URAN 92 / Zertte / Thunderbolts / Nerv.
+<br>- 🤖 Aspiring AI/ML & Computer Science student
+<br>- 📚 Completed the NUUA rocket engineering course
+<br>- ⚡ Completed the Harvard Model Congress (HMC) in Astana and Boston</p>
 
 
 ###

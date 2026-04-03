@@ -4,6 +4,8 @@
 
 <h1 align="center">Hi 👋 my name Khussein!</h1>
 
+###
+
 <h3 align="left">About me</h3>
 
 ###
@@ -37,12 +39,3 @@ I am passionate about artificial intelligence, robotics, and building smart syst
   <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
  </p>
-
-###
-
-<h3 align="left">🔥 My state:</h3>
-
-
-###
-<p align="center"> 
-<br><a align="center" href="https://github.com/AendeGitHub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AendeGitHub&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> </p> 
